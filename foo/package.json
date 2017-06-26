@@ -17,7 +17,8 @@
   "dependencies": {
     "@types/node": "^7.0.18",
     "electron-download": "^3.0.1",
-    "extract-zip": "^1.0.3"
+    "extract-zip": "^1.6.5",
+    "oracledb": "^1.13.1"
   },
   "devDependencies": {
     "home-path": "^0.1.1",
